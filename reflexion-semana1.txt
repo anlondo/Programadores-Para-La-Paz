@@ -1,0 +1,7 @@
+----------------------------------------------------------
+REFLEXIÓN: Ejercicios Semana 1
+AUTOR: Cristian Londoño
+----------------------------------------------------------
+
+4. Reflexión de la semana:
+La relación fundamental entre estos conceptos radica en la ética y el orden. El uso responsable de la información y la participación ciudadana son los pilares éticos necesarios para construir una sociedad digital confiable, donde verificar datos evita la propagación de desinformación. Por otro lado, herramientas como Git aportan la estructura técnica para que esta participación sea organizada, transparente y trazable. Al igual que validamos una noticia antes de compartirla para no engañar a la comunidad, en el desarrollo técnico utilizamos sistemas de control de versiones para documentar cambios y colaborar de forma honesta. En conjunto, estas prácticas fomentan un ecosistema donde la responsabilidad individual se traduce en un progreso colectivo eficiente y auditable, creando un entorno tecnológico más sano y colaborativo.
